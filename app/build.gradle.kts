@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace = "io.github.devhyper.openvideoeditor"
+    namespace = "io.github.horihori2013.droidutau"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "io.github.devhyper.openvideoeditor"
+        applicationId = "io.github.horihori2013.droidutau"
         minSdk = 26
         targetSdk = 34
         versionCode = 7
@@ -82,7 +82,7 @@ dependencies {
     implementation("org.jetbrains.kotlinx:kotlinx-collections-immutable:0.3.7")
     implementation("com.godaddy.android.colorpicker:compose-color-picker:0.7.0")
     implementation("com.godaddy.android.colorpicker:compose-color-picker-android:0.7.0")
-    implementation("com.arthenica:ffmpeg-kit-min:6.0-2")
+    implementation("com.arthenica:ffmpeg-kit-full:6.0.LTS")
     testImplementation("junit:junit:4.13.2")
     androidTestImplementation("androidx.test.ext:junit:1.2.1")
     androidTestImplementation("androidx.test.espresso:espresso-core:3.6.1")
