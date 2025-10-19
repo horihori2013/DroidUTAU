@@ -5,7 +5,7 @@ OpenUTAUのコア部分を使用しつつ簡易的な動画編集ソフトも統
 OpenUTAU(https://github.com/stakira/OpenUtau)
 及び
 フォーク元の Open Video Editor
-##概要
+## 概要
 まだ、OpenUTAUを追加できていません！
 内容ができ次第記載します。
 # Readme from Open Video Editor!!
@@ -41,4 +41,5 @@ https://github.com/devhyper/open-video-editor/milestones
     <img src="./metadata/en-US/images/phoneScreenshots/7.png" alt="Phone screenshot 7" width="150">
     <img src="./metadata/en-US/images/phoneScreenshots/8.png" alt="Phone screenshot 8" width="150">
 </p>
+
 
